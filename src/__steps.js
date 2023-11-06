@@ -10,4 +10,5 @@
  * 9. Login.jsx: import gerAuth from firebase/auth
  * 10. create const auth = getAuth(app)
  * 11. import googleAuthProvider and create a new provider
+ * 12. use signInWithPopUp and pass auth and provider
  *  */
